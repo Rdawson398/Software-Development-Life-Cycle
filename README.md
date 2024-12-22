@@ -1,1 +1,10 @@
 # Software-Development-Life-Cycle
+
+**How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?**
+Interpretting user needs involves a combination of active listening and attention to detail. For the SNHU Travel system, the Product Owner collected "user stories" allowing real users to voice their opinions on what they feel would improve the system. As part of the development team, it's important for us to both determine ways to deliver on these suggestions while also understanding the smaller steps involved that these users may not notice at first glance. This can be done by putting yourself into the user's shoes and clearly envisioning what you'd like to see every step of the way. The user stories provide the end goal, but the road map there comes from understanding your system and determining the best way to deliver that end result. 
+
+**How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?**
+When developing programs, I look to take a modular approach. Programs should be clean and scalable, allowing for easy integration of new features and updates. Through this process, I also hope to incorporate Agiles iteration based development process into my own work. This process allows me to complete projects faster while also leaving room for new features suggested by users, keeping the system relevant and up-to-date.
+
+**What does it mean to be a good team member in software development?**
+In a system development team, a good team member is someone who both provides and is open to constructive feedback. This team member would always be thinking of the next person to pick up their work when they finish, incorporating clean efficient code, clear comments on what each section of code does, and communicating the work they've done and what still needs to be done for the system requirements. Lastly, they'd also follow the "boyscout rule" where they're always trying to leave any code they work on better than how they found it. 
